@@ -1,0 +1,30 @@
+
+    *{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	}
+
+	.mainclass{
+		width: 60%;
+		margin: 70px auto auto;
+	}
+
+  	.profile1{
+  		width: 300px;
+  		height: auto;
+  	}
+
+  	.listmain ul li button{
+  		width: 75%;
+  		border-radius:333px;
+  	}
+
+  	.listmain ul li button:hover {
+  		width: 80%;
+  		background-image: linear-gradient(to right, #10cf36, #aea700, #ef6b00, #ff0b5c, #cf1cad);
+  	}
+
+  	.icons ul li a i{
+  		margin: 40px 20px;
+  	}

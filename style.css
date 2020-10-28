@@ -6,7 +6,7 @@
 	}
 
 	.mainclass{
-		width: 80%;
+		width: 100%;
 		margin: 70px auto auto;
 	}
 
@@ -16,7 +16,7 @@
   	}
 
   	.listmain ul li button{
-  		width: 75%;
+  		width: 85%;
   		border-radius:333px;
   	}
 

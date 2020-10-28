@@ -17,7 +17,7 @@
 
   	.listmain ul li button{
 		  width: 80%;
-		  margin: 25px;
+		  margin: 25px auto;
   		  border-radius:333px;
   	}
 

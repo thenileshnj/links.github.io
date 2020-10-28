@@ -16,12 +16,12 @@
   	}
 
   	.listmain ul li button{
-  		width: 85%;
-  		border-radius:333px;
+		  width: 80%;
+		  margin: 25px;
+  		  border-radius:333px;
   	}
 
   	.listmain ul li button:hover {
-  		width: 80%;
   		background-image: linear-gradient(to right, #10cf36, #aea700, #ef6b00, #ff0b5c, #cf1cad);
   	}
 
